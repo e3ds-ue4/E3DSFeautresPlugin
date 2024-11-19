@@ -5,6 +5,7 @@
 
 # Node artifact files
 node_modules/
+Build/
 dist/
 
 # Compiled Java class files
@@ -22,6 +23,13 @@ dist/
 # Maven
 target/
 dist/
+Saved/
+Intermediate/
+Binaries/
+DerivedDataCache/
+WindowsNoEditor/
+.vs/
+.idea/
 
 # JetBrains IDE
 .idea/
@@ -48,3 +56,6 @@ Thumbs.db
 *.mov
 *.wmv
 
+Saved/Config/Windows/OculusVR.ini
+Content/Maps/TrackerlessStudio_BuiltData.uasset
+Content/Maps/FeaturesMap_BuiltData.uasset
